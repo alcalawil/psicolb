@@ -29,7 +29,7 @@
           <!-- <li><a href="#blog">Blog</a></li> -->
           <li><a href="#contact">Contacto</a></li>
           <li class="download_cv">
-            <a href="img/cv/1.jpg" download><span>Download CV</span></a>
+            <a href="https://wa.me/584145014087" target="_blank" ><span>Primera consulta GRATIS</span></a>
           </li>
         </ul>
       </div>
