@@ -32,16 +32,16 @@
                   />
                 </span>
                 <div class="title">
-                  <h3>Primera Consulta</h3>
+                  <h3>Terapia niños</h3>
                   <!-- <span class="price">Costo USD </span>
                   <span class="old-price" style="text-decoration: line-through;">$40</span>
                   <span class="price"> <span>                           $0</span></span> -->
                 </div>
                 <div class="text">
                   <p>
-                    Esta primera consulta no tiene costo, será un espacio para conocernos y entender tu situación.
-                    Luego podremos definir un plan que se ajuste a tus necesidades.
-                    
+                    Esta es una sesión online de 1 hora, en la que podremos explorar las emociones de tu hijo. 
+                    Podrás participar en la sesión y recibirás un informe detallado de la misma.
+                    La idea es que puedas entender mejor a tu hijo y ayudarlo a superar sus dificultades.
                   </p>
                 </div>
                 <a class="dizme_tm_full_link" href="#contact"></a>
