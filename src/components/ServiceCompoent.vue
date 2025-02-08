@@ -40,7 +40,7 @@
                 <div class="text">
                   <p>
                     Esta primera consulta no tiene costo, será un espacio para conocernos y entender tu situación.
-                    Luego podremos definir un plan un plan que se ajuste a tus necesidades.
+                    Luego podremos definir un plan que se ajuste a tus necesidades.
                     
                   </p>
                 </div>
