@@ -3,11 +3,11 @@
     <div class="dizme_tm_services">
       <div class="container">
         <div class="dizme_tm_main_title" data-align="center">
-          <span>Services</span>
-          <h3>What I Do for Clients</h3>
+          <span>Servicios</span>
+          <h3>¿Qué te ofrezco?</h3>
           <p>
-            Most common methods for designing websites that work well on desktop
-            is responsive and adaptive design
+            Cada persona tiene necesidades únicas, por eso ofrezco una primera consulta gratuita para entender tus necesidades y ofrecerte un plan a tu medida.
+            Sin embargo puedes ver algunos de los planes que ofrezco a continuación.
           </p>
         </div>
         <div class="service_list">
@@ -15,13 +15,14 @@
             <li
               class="wow fadeInLeft"
               data-wow-duration="1s"
-              @click.prevent="active = 1"
             >
+            <!-- @click.prevent="active = 1" -->
+
               <div class="list_inner tilt-effect">
                 <span class="icon">
                   <img
                     class="svg"
-                    src="/public/img/svg/service/anchor.svg"
+                    src="/public/img/svg/service/consulta.svg"
                     alt=""
                   />
                   <img
@@ -33,17 +34,19 @@
                   />
                 </span>
                 <div class="title">
-                  <h3>Creative Design</h3>
-                  <span class="price">Starts from <span>$99</span></span>
+                  <h3>Primera Consulta</h3>
+                  <span class="price">Costo USD </span>
+                  <span class="old-price" style="text-decoration: line-through;">$40</span>
+                  <span class="price"> <span>                           $0</span></span>
                 </div>
                 <div class="text">
                   <p>
-                    Web design refers to the design of websites that are
-                    displayed on the internet. It usually refers to the user
-                    experience aspects of website development
+                    Esta primera consulta no tiene costo, será un espacio para conocernos y entender tu situación.
+                    Luego podremos definir un plan un plan que se ajuste a tus necesidades.
+                    
                   </p>
                 </div>
-                <a class="dizme_tm_full_link" href="#"></a>
+                <a class="dizme_tm_full_link" href="#contact"></a>
                 <img
                   class="popup_service_image"
                   src="/public/img/service/1.jpg"
@@ -55,13 +58,12 @@
               class="wow fadeInRight"
               data-wow-duration="1s"
               data-wow-delay="0.2s"
-              @click.prevent="active = 2"
             >
               <div class="list_inner tilt-effect">
                 <span class="icon">
                   <img
                     class="svg"
-                    src="/public/img/svg/service/physics.svg"
+                    src="/public/img/svg/service/presencial.svg"
                     alt=""
                   />
                   <img
@@ -73,17 +75,16 @@
                   />
                 </span>
                 <div class="title">
-                  <h3>Graphic Design</h3>
-                  <span class="price">Starts from <span>$199</span></span>
+                  <h3>Terapia Presencial</h3>
+                  <span class="price">Costo USD<span> $50</span></span>
                 </div>
                 <div class="text">
                   <p>
-                    Web design refers to the design of websites that are
-                    displayed on the internet. It usually refers to the user
-                    experience aspects of website development
+                    Esta es una sesión presencial de 1 hora, en la que podremos explorar tus emociones 
+                    de forma más cerca y personal. Se realizan en Barquisimeto Zona Este y Cabudare.
                   </p>
                 </div>
-                <a class="dizme_tm_full_link" href="#"></a>
+                <a class="dizme_tm_full_link" href="#contact"></a>
                 <img
                   class="popup_service_image"
                   src="/public/img/service/2.jpg"
@@ -124,13 +125,12 @@
             <li
               class="wow fadeInLeft"
               data-wow-duration="1s"
-              @click.prevent="active = 3"
             >
               <div class="list_inner tilt-effect">
                 <span class="icon">
                   <img
                     class="svg"
-                    src="/public/img/svg/service/contact.svg"
+                    src="/public/img/svg/service/people.svg"
                     alt=""
                   />
                   <img
@@ -142,17 +142,16 @@
                   />
                 </span>
                 <div class="title">
-                  <h3>UI/UX Design</h3>
-                  <span class="price">Starts from <span>$299</span></span>
+                  <h3>Terapia en Pareja</h3>
+                  <span class="price">Costo USD <span>$65</span></span>
                 </div>
                 <div class="text">
                   <p>
-                    Web design refers to the design of websites that are
-                    displayed on the internet. It usually refers to the user
-                    experience aspects of website development
+                    Es una sesión presencial u online de 1 hora, en la que podran participar ambos miembros de la pareja.
+                    Podremos explorar juntos las emociones y situaciones que se presenten en la relación.
                   </p>
                 </div>
-                <a class="dizme_tm_full_link" href="#"></a>
+                <a class="dizme_tm_full_link" href="#contact"></a>
                 <img
                   class="popup_service_image"
                   src="/public/img/service/3.jpg"
@@ -194,13 +193,12 @@
               class="wow fadeInRight"
               data-wow-duration="1s"
               data-wow-delay="0.2s"
-              @click.prevent="active = 4"
             >
               <div class="list_inner tilt-effect">
                 <span class="icon">
                   <img
                     class="svg"
-                    src="/public/img/svg/service/web.svg"
+                    src="/public/img/svg/service/online.svg"
                     alt=""
                   />
                   <img
@@ -212,17 +210,16 @@
                   />
                 </span>
                 <div class="title">
-                  <h3>Web Design</h3>
-                  <span class="price">Starts from <span>$399</span></span>
+                  <h3>Terapia Online</h3>
+                  <span class="price">Costo USD <span>$40</span></span>
                 </div>
                 <div class="text">
                   <p>
-                    Web design refers to the design of websites that are
-                    displayed on the internet. It usually refers to the user
-                    experience aspects of website development
+                    Consta de una sesión online de 1 hora, por medio de una plataforma online.
+                    A pesar de la distancia, podremos explorar tus emociones y situaciones de forma efectiva.
                   </p>
                 </div>
-                <a class="dizme_tm_full_link" href="#"></a>
+                <a class="dizme_tm_full_link" href="#contact"></a>
                 <img
                   class="popup_service_image"
                   src="/public/img/service/4.jpg"

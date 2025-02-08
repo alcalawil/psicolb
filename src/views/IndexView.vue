@@ -22,7 +22,7 @@
     <!-- /SKILLS -->
 
     <!-- SERVICES -->
-    <!-- <ServiceCompoent /> -->
+    <ServiceCompoent />
     <!-- /SERVICES -->
 
     <!-- TESTIMONIALS -->
