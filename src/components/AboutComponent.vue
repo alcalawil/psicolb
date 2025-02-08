@@ -5,7 +5,7 @@
         <div class="wrapper">
           <div class="left">
             <div class="image">
-              <img :src="`/public/img/about/_1.jpg`" alt="" />
+              <img src="/public/img/about/_1.jpg" alt="" />
               <div class="numbers year">
                 <div class="wrapper">
                   <h3>
