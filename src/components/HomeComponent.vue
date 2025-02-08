@@ -16,7 +16,7 @@
             </div>
             <div class="job">
               <p>
-                Licenciada en<span class="greenText"> Psicología</span>
+                Licenciada en<span class="purpleText"> Psicología</span>
                 <!-- <span class="purpleText">Humanista</span> -->
               </p>
             </div>

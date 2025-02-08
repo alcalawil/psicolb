@@ -9,10 +9,6 @@
     <AboutComponent />
     <!-- /ABOUT -->
 
-    <!-- PROCESS -->
-    <!-- <ProcessComponent /> -->
-    <!-- /PROCESS -->
-
     <!-- PORTFOLIO -->
     <!-- <PortfolioComponent /> -->
     <!-- /PORTFOLIO -->
@@ -24,6 +20,10 @@
     <!-- SERVICES -->
     <ServiceCompoent />
     <!-- /SERVICES -->
+
+        <!-- PROCESS -->
+    <ProcessComponent />
+    <!-- /PROCESS -->
 
     <!-- TESTIMONIALS -->
     <!-- <TestimonialsComponent /> -->
