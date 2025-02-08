@@ -29,7 +29,10 @@
           <!-- <li><a href="#blog">Blog</a></li> -->
           <li><a href="#contact">Contacto</a></li>
           <li class="download_cv">
-            <a href="https://wa.me/584145014087" target="_blank" ><span>Primera consulta GRATIS</span></a>
+                <!-- En lugar de enlazar a WhatsApp, usamos @click para abrir Calendly -->
+                <a href="" onclick="Calendly.initPopupWidget({resize: true, url: 'https://calendly.com/alcalawilfre?hide_gdpr_banner=1'});return false;">
+                <span>Consulta GRATIS</span>
+              </a>
           </li>
         </ul>
       </div>
