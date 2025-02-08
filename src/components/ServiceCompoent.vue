@@ -32,7 +32,7 @@
                   />
                 </span>
                 <div class="title">
-                  <h3>Terapia niños</h3>
+                  <h3>Terapia Adolescentes</h3>
                   <!-- <span class="price">Costo USD </span>
                   <span class="old-price" style="text-decoration: line-through;">$40</span>
                   <span class="price"> <span>                           $0</span></span> -->

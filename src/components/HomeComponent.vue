@@ -16,13 +16,13 @@
             </div>
             <div class="job">
               <p>
-                Psicóloga<span class="greenText"> Clínica</span> y
-                <span class="purpleText">Humanista</span>
+                Licenciada en<span class="greenText"> Psicología</span>
+                <!-- <span class="purpleText">Humanista</span> -->
               </p>
             </div>
             <div class="text">
               <p>
-                Especialista en terapia cognitivo conductual, apasionada y plenamente comprometida con el bienestar humano.
+                Enfoque en terapia cognitivo conductual, apasionada y plenamente comprometida con el bienestar humano.
               </p>
             </div>
             <div class="button">

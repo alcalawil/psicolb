@@ -10,7 +10,7 @@
     <!-- /ABOUT -->
 
     <!-- PROCESS -->
-    <ProcessComponent />
+    <!-- <ProcessComponent /> -->
     <!-- /PROCESS -->
 
     <!-- PORTFOLIO -->
