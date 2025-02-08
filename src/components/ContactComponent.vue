@@ -13,6 +13,33 @@
         <div class="contact_inner">
           <div class="left wow fadeInLeft" data-wow-duration="1s">
             <ul>
+
+              <li>
+                <div class="list_inner">
+                  <div class="icon purpleBackground">
+                    <i class="icon-phone purpleText"></i>
+                  </div>
+                  <div class="short">
+                    <a href="https://wa.me/584145014087" target="_blank"
+                      ><span><h3>Whatsapp</h3></span></a>
+                  </div>
+                </div>
+              </li>
+
+
+              <li>
+                <div class="list_inner">
+                  <div class="icon greenBackground">
+                    <i class="icon-calendar-1 greenText"></i>
+                  </div>
+                  <div class="short">
+                    <a href="" onclick="Calendly.initPopupWidget({resize: true, url: 'https://calendly.com/cegarraliliana1/30min?hide_gdpr_banner=1&primary_color=FFA500&locale=es'});return false;">
+                    <h3>Agenda tu Consulta</h3>
+                  </a>
+                  </div>
+                </div>
+              </li>
+
               <li>
                 <div class="list_inner">
                   <div class="icon orangeBackground">
@@ -24,29 +51,7 @@
                   </div>
                 </div>
               </li>
-              <li>
-                <div class="list_inner">
-                  <div class="icon greenBackground">
-                    <i class="icon-mail-1 greenText"></i>
-                  </div>
-                  <div class="short">
-                    <h3>Email</h3>
-                    <span><a href="mailto:info@psicolb.com">info@psicolb.com</a></span>
-                  </div>
-                </div>
-              </li>
-              <li>
-                <div class="list_inner">
-                  <div class="icon purpleBackground">
-                    <i class="icon-phone purpleText"></i>
-                  </div>
-                  <div class="short">
-                    <h3>Whatsapp</h3>
-                    <a href="https://wa.me/584145014087" target="_blank"
-                      ><span>+584145014087</span></a>
-                  </div>
-                </div>
-              </li>
+
             </ul>
           </div>
           <div class="right wow fadeInRight" data-wow-duration="1s">

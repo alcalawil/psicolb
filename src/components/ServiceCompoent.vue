@@ -33,9 +33,9 @@
                 </span>
                 <div class="title">
                   <h3>Primera Consulta</h3>
-                  <span class="price">Costo USD </span>
+                  <!-- <span class="price">Costo USD </span>
                   <span class="old-price" style="text-decoration: line-through;">$40</span>
-                  <span class="price"> <span>                           $0</span></span>
+                  <span class="price"> <span>                           $0</span></span> -->
                 </div>
                 <div class="text">
                   <p>
@@ -72,7 +72,7 @@
                 </span>
                 <div class="title">
                   <h3>Terapia Presencial</h3>
-                  <span class="price">Costo USD<span> $50</span></span>
+                  <!-- <span class="price">Costo USD<span> $50</span></span> -->
                 </div>
                 <div class="text">
                   <p>
@@ -137,7 +137,7 @@
                 </span>
                 <div class="title">
                   <h3>Terapia en Pareja</h3>
-                  <span class="price">Costo USD <span>$65</span></span>
+                  <!-- <span class="price">Costo USD <span>$65</span></span> -->
                 </div>
                 <div class="text">
                   <p>
@@ -203,7 +203,7 @@
                 </span>
                 <div class="title">
                   <h3>Terapia Online</h3>
-                  <span class="price">Costo USD <span>$40</span></span>
+                  <!-- <span class="price">Costo USD <span>$40</span></span> -->
                 </div>
                 <div class="text">
                   <p>

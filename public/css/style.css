@@ -2352,7 +2352,8 @@ h6 { font-size: 16px; }
 	     -o-transition: all .3s ease;
 	        transition: all .3s ease;
 }
-.dizme_tm_contact .left .short a:hover{
+.dizme_tm_contact .left .short a:hover span,
+.short a:hover h3 {
 	color: #f75023;
 }
 .dizme_tm_contact .right{
