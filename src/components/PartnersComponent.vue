@@ -7,7 +7,7 @@
             <li class="wow fadeIn" data-wow-duration="1s">
               <div class="list_inner">
                 <img
-                  :src="`/public/img/partners/${dark ? 'light' : 'dark'}/1.png`"
+                  src="/public/img/partners/light/1.png"
                   alt=""
                 />
                 <a class="dizme_tm_full_link" a href="#"></a>
@@ -16,7 +16,7 @@
             <li class="wow fadeIn" data-wow-duration="1s" data-wow-delay="0.2s">
               <div class="list_inner">
                 <img
-                  :src="`/public/img/partners/${dark ? 'light' : 'dark'}/2.png`"
+                  src="/public/img/partners/light/2.png"
                   alt=""
                 />
                 <a class="dizme_tm_full_link" a href="#"></a>
@@ -25,7 +25,7 @@
             <li class="wow fadeIn" data-wow-duration="1s" data-wow-delay="0.4s">
               <div class="list_inner">
                 <img
-                  :src="`/public/img/partners/${dark ? 'light' : 'dark'}/3.png`"
+                  src="/public/img/partners/light/3.png"
                   alt=""
                 />
                 <a class="dizme_tm_full_link" a href="#"></a>
@@ -34,7 +34,7 @@
             <li class="wow fadeIn" data-wow-duration="1s" data-wow-delay="0.6s">
               <div class="list_inner">
                 <img
-                  :src="`/public/img/partners/${dark ? 'light' : 'dark'}/4.png`"
+                  src="/public/img/partners/light/4.png"
                   alt=""
                 />
                 <a class="dizme_tm_full_link" a href="#"></a>
@@ -43,7 +43,7 @@
             <li class="wow fadeIn" data-wow-duration="1s">
               <div class="list_inner">
                 <img
-                  :src="`/public/img/partners/${dark ? 'light' : 'dark'}/5.png`"
+                  src="/public/img/partners/light/5.png"
                   alt=""
                 />
                 <a class="dizme_tm_full_link" a href="#"></a>
@@ -52,7 +52,7 @@
             <li class="wow fadeIn" data-wow-duration="1s" data-wow-delay="0.2s">
               <div class="list_inner">
                 <img
-                  :src="`/public/img/partners/${dark ? 'light' : 'dark'}/6.png`"
+                  src="/public/img/partners/light/6.png"
                   alt=""
                 />
                 <a class="dizme_tm_full_link" a href="#"></a>
@@ -61,7 +61,7 @@
             <li class="wow fadeIn" data-wow-duration="1s" data-wow-delay="0.4s">
               <div class="list_inner">
                 <img
-                  :src="`/public/img/partners/${dark ? 'light' : 'dark'}/7.png`"
+                  src="/public/img/partners/light/7.png"
                   alt=""
                 />
                 <a class="dizme_tm_full_link" a href="#"></a>
@@ -70,7 +70,7 @@
             <li class="wow fadeIn" data-wow-duration="1s" data-wow-delay="0.6s">
               <div class="list_inner">
                 <img
-                  :src="`/public/img/partners/${dark ? 'light' : 'dark'}/8.png`"
+                  src="/public/img/partners/light/8.png"
                   alt=""
                 />
                 <a class="dizme_tm_full_link" a href="#"></a>

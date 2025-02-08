@@ -27,9 +27,7 @@
                   />
                   <img
                     class="back"
-                    :src="`/public/img/brushes/service${
-                      dark ? '/dark' : ''
-                    }/1.png`"
+                    src="/public/img/brushes/service/1.png"
                     alt=""
                   />
                 </span>
@@ -68,9 +66,7 @@
                   />
                   <img
                     class="back"
-                    :src="`/public/img/brushes/service${
-                      dark ? '/dark' : ''
-                    }/2.png`"
+                    src="/public/img/brushes/service/2.png"
                     alt=""
                   />
                 </span>
@@ -135,9 +131,7 @@
                   />
                   <img
                     class="back"
-                    :src="`/public/img/brushes/service${
-                      dark ? '/dark' : ''
-                    }/3.png`"
+                    src="/public/img/brushes/service/3.png"
                     alt=""
                   />
                 </span>
@@ -203,9 +197,7 @@
                   />
                   <img
                     class="back"
-                    :src="`/public/img/brushes/service${
-                      dark ? '/dark' : ''
-                    }/4.png`"
+                    src="/public/img/brushes/service/4.png"
                     alt=""
                   />
                 </span>

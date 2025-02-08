@@ -4,7 +4,7 @@
       <div class="mobile_in">
         <div class="logo">
           <a href="#"
-            ><img :src="`img/logo/${dark ? 'dark' : 'logo'}.png`" alt=""
+            ><img src="/img/logo/logo.png" alt=""
           /></a>
         </div>
         <div class="trigger" @click="activeToggle()">

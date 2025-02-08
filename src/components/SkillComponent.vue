@@ -59,7 +59,7 @@
             </div>
           </div>
           <div class="right">
-            <img :src="`/public/img/skills/${dark ? 2 : 1}.jpg`" alt="" />
+            <img src="/public/img/skills/1.jpg" alt="" />
           </div>
         </div>
       </div>
