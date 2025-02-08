@@ -30,7 +30,7 @@
           <li><a href="#contact">Contacto</a></li>
           <li class="download_cv">
                 <!-- En lugar de enlazar a WhatsApp, usamos @click para abrir Calendly -->
-                <a href="" onclick="Calendly.initPopupWidget({resize: true, url: 'https://calendly.com/cegarraliliana1/30min?hide_gdpr_banner=1&primary_color=FFA500&locale=es'});return false;">
+                <a href="" onclick="Calendly.initPopupWidget({resize: true, url: 'https://calendly.com/cegarraliliana1/30min?hide_gdpr_banner=1&primary_color=f65123&locale=es'});return false;">
                 <span>Consulta GRATIS</span>
               </a>
           </li>

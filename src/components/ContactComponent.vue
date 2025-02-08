@@ -33,7 +33,7 @@
                     <i class="icon-calendar-1 greenText"></i>
                   </div>
                   <div class="short">
-                    <a href="" onclick="Calendly.initPopupWidget({resize: true, url: 'https://calendly.com/cegarraliliana1/30min?hide_gdpr_banner=1&primary_color=FFA500&locale=es'});return false;">
+                    <a href="" onclick="Calendly.initPopupWidget({resize: true, url: 'https://calendly.com/cegarraliliana1/30min?hide_gdpr_banner=1&primary_color=f65123&locale=es'});return false;">
                     <h3>Agenda tu Consulta</h3>
                   </a>
                   </div>
