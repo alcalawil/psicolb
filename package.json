@@ -1,6 +1,6 @@
 {
-  "name": "dizme-update",
-  "version": "0.0.0",
+  "name": "PsicoLB",
+  "version": "0.0.1",
   "private": true,
   "type": "module",
   "scripts": {
