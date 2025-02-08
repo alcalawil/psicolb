@@ -3,7 +3,7 @@
     <div class="dizme_tm_hero">
       <div
         class="background"
-        :data-img-url="`/public/img/slider/${dark ? 2 : 1}.jpg`"
+        data-img-url="/public/img/slider/1.jpg"
       ></div>
       <div class="container">
         <div class="content">
