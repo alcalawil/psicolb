@@ -10,13 +10,13 @@
         <div class="menu">
           <ul class="anchor_nav">
             <li class="current"><a href="#home">👋</a></li>
-            <li><a href="#about">About</a></li>
-            <li><a href="#portfolio">Portfolio</a></li>
-            <li><a href="#service">Service</a></li>
-            <li><a href="#blog">Blog</a></li>
-            <li><a href="#contact">Contact</a></li>
+            <li><a href="#about">Sobre Mi</a></li>
+            <!-- <li><a href="#portfolio">Portfolio</a></li> -->
+            <li><a href="#service">Servicios</a></li>
+            <!-- <li><a href="#blog">Blog</a></li> -->
+            <li><a href="#contact">Contacto</a></li>
             <li class="download_cv">
-              <a href="img/cv/1.jpg" download><span>Primera consulta GRATIS</span></a>
+              <a href="https://wa.me/584145014087" target="_blank"><span>Primera consulta GRATIS</span></a>
             </li>
           </ul>
         </div>

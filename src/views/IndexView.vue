@@ -14,31 +14,31 @@
     <!-- /PROCESS -->
 
     <!-- PORTFOLIO -->
-    <PortfolioComponent />
+    <!-- <PortfolioComponent /> -->
     <!-- /PORTFOLIO -->
 
     <!-- SKILLS -->
-    <SkillComponent />
+    <!-- <SkillComponent /> -->
     <!-- /SKILLS -->
 
     <!-- SERVICES -->
-    <ServiceCompoent />
+    <!-- <ServiceCompoent /> -->
     <!-- /SERVICES -->
 
     <!-- TESTIMONIALS -->
-    <TestimonialsComponent />
+    <!-- <TestimonialsComponent /> -->
     <!-- /TESTIMONIALS -->
 
     <!-- PARTNERS -->
-    <PartnersComponent />
+    <!-- <PartnersComponent /> -->
     <!-- /PARTNERS -->
 
     <!-- NEWS -->
-    <NewsComponent />
+    <!-- <NewsComponent /> -->
     <!-- /NEWS -->
 
     <!-- SUBSCRIBE -->
-    <SubscribeComponent />
+    <!-- <SubscribeComponent /> -->
     <!-- /SUBSCRIBE -->
 
     <!-- CONTACT -->

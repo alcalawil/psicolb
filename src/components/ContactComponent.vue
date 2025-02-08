@@ -3,12 +3,12 @@
     <div class="dizme_tm_contact">
       <div class="container">
         <div class="dizme_tm_main_title" data-align="center">
-          <span>Contact Me</span>
-          <h3>I Want To Hear From You</h3>
-          <p>
+          <span>Contacto</span>
+          <h3>¿Cómo puedo ayudarte?</h3>
+          <!-- <p>
             Please fill out the form on this section to contact with me. Or call
             between 9:00 a.m. and 8:00 p.m. ET, Monday through Friday
-          </p>
+          </p> -->
         </div>
         <div class="contact_inner">
           <div class="left wow fadeInLeft" data-wow-duration="1s">
@@ -19,8 +19,8 @@
                     <i class="icon-location orangeText"></i>
                   </div>
                   <div class="short">
-                    <h3>Address</h3>
-                    <span>20, Somewhere in world</span>
+                    <h3>Terapia Presencial</h3>
+                    <span>Barquisimeto Zona Este, Venezuela</span>
                   </div>
                 </div>
               </li>
@@ -31,7 +31,7 @@
                   </div>
                   <div class="short">
                     <h3>Email</h3>
-                    <span><a href="#">hello@dizme.com</a></span>
+                    <span><a href="mailto:info@psicolb.com">info@psicolb.com</a></span>
                   </div>
                 </div>
               </li>
@@ -41,8 +41,9 @@
                     <i class="icon-phone purpleText"></i>
                   </div>
                   <div class="short">
-                    <h3>Phone</h3>
-                    <span>+123 456 7890</span>
+                    <h3>Whatsapp</h3>
+                    <a href="https://wa.me/584145014087" target="_blank"
+                      ><span>+584145014087</span></a>
                   </div>
                 </div>
               </li>
@@ -67,16 +68,16 @@
                 <div class="input_list">
                   <ul>
                     <li>
-                      <input id="name" type="text" placeholder="Your Name" />
+                      <input id="name" type="text" placeholder="Nombre" />
                     </li>
                     <li>
-                      <input id="email" type="text" placeholder="Your Email" />
+                      <input id="email" type="text" placeholder="Correo" />
                     </li>
                     <li>
                       <input
                         id="phone"
                         type="number"
-                        placeholder="Your Phone"
+                        placeholder="Teléfono"
                       />
                     </li>
                     <li>
@@ -87,11 +88,11 @@
                 <div class="message_area">
                   <textarea
                     id="message"
-                    placeholder="Write your message here"
+                    placeholder="Descríbeme tu situación, o lo que quieras que sepa de ti"
                   ></textarea>
                 </div>
                 <div class="dizme_tm_button">
-                  <a id="send_message" href="#"><span>Submit Now</span></a>
+                  <a id="send_message" href="#"><span>Enviar</span></a>
                 </div>
               </form>
             </div>
@@ -107,7 +108,7 @@
                 width="100%"
                 height="375"
                 id="gmap_canvas"
-                src="https://maps.google.com/maps?q=2880%20Broadway,%20New%20York&t=&z=13&ie=UTF8&iwloc=&output=embed"
+                src="https://maps.google.com/maps?width=100%25&amp;height=600&amp;hl=en&amp;q=Barquisimeto+(Barquisimeto%20Este)&amp;t=&amp;z=14&amp;ie=UTF8&amp;iwloc=B&amp;output=embed"
                 frameborder="0"
                 scrolling="no"
                 marginheight="0"

@@ -5,17 +5,17 @@
         <div class="inner">
           <div class="left wow fadeInLeft" data-wow-duration="1s">
             <p>
-              Developed with love by
-              <a href="https://themeforest.net/user/Codeefly" target="_blank"
+              Hecha con ❤️ 
+              <!-- <a href="https://themeforest.net/user/Codeefly" target="_blank"
                 >Codeefly</a
-              >
+              > -->
               &copy; {{ new Date().getFullYear() }}
             </p>
           </div>
           <div class="right wow fadeInRight" data-wow-duration="1s">
             <ul>
-              <li><a href="#">Terms &amp; Condition</a></li>
-              <li><a href="#">Privacy Policy</a></li>
+              <!-- <li><a href="#">Terms &amp; Condition</a></li> -->
+              <li><a href="#">Política de Privacidad</a></li>
             </ul>
           </div>
         </div>

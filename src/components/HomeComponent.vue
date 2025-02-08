@@ -27,7 +27,7 @@
             </div>
             <div class="button">
               <div class="dizme_tm_button">
-                <a class="anchor" href="#about"><span>Sobre mi</span></a>
+                <a class="anchor" href="#about"><span>Sobre Mi</span></a>
               </div>
               <div class="social">
                 <ul>
