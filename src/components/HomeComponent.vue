@@ -40,7 +40,7 @@
                     <a href="https://www.tiktok.com/@psicologiamundialb" target="_blank" rel="noopener noreferrer"><i class="icon-twitter-1"></i></a>
                   </li>
                   <li>
-                    <a href="#"><i class="icon-linkedin-1"></i></a>
+                    <a href="https://www.linkedin.com/in/liliana-briceño-cegarra-570878306/"><i class="icon-linkedin-1"></i></a>
                   </li>
                 </ul>
               </div>
