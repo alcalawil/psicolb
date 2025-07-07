@@ -17,7 +17,7 @@
               <div class="numbers project">
                 <div class="wrapper">
                   <h3 style="display: flex">
-                    +<VueJsCounter as="span" end="7"></VueJsCounter>
+                    +<VueJsCounter as="span" end="5"></VueJsCounter>
                   </h3>
                   <span class="name">Años de<br /> Experiencia</span>
                 </div>
@@ -31,10 +31,9 @@
             </div>
             <div class="text wow fadeInUp" data-wow-duration="1s">
               <p>
-                En un espacio seguro y confidencial, 
-                te acompaño a explorar patrones limitantes, cultivar la autocompasión 
-                y desarrollar herramientas que promuevan cambios positivos 
-                y duraderos en tu vida.
+                Te ofrezco un espacio seguro y de confianza, 
+                en donde puedas desarrollar herramientas que te ayuden a gestionar emociones  
+                y afrontar los retos de la vida cotidiana.
               </p>
             </div>
             <div class="dizme_tm_button wow fadeInUp" data-wow-duration="1s">

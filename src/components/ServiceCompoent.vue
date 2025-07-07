@@ -32,16 +32,14 @@
                   />
                 </span>
                 <div class="title">
-                  <h3>Terapia Adolescentes</h3>
+                  <h3>Adolescentes y Adultos</h3>
                   <!-- <span class="price">Costo USD </span>
                   <span class="old-price" style="text-decoration: line-through;">$40</span>
                   <span class="price"> <span>                           $0</span></span> -->
                 </div>
                 <div class="text">
                   <p>
-                    Esta es una sesión online de 1 hora, en la que podremos explorar las emociones de tu hijo. 
-                    Podrás participar en la sesión y recibirás un informe detallado de la misma.
-                    La idea es que puedas entender mejor a tu hijo y ayudarlo a superar sus dificultades.
+                    Te acompaño en tu camino de autodescubrimiento, crecimiento personal y emocional.
                   </p>
                 </div>
                 <a class="dizme_tm_full_link" href="#contact"></a>

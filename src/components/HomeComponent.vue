@@ -1,10 +1,10 @@
 <template>
   <div class="dizme_tm_section" id="home">
     <div class="dizme_tm_hero">
-      <div
+      <!-- <div
         class="background"
         data-img-url="/public/img/slider/1.jpg"
-      ></div>
+      ></div> -->
       <div class="container">
         <div class="content">
           <div class="details">
@@ -16,13 +16,14 @@
             </div>
             <div class="job">
               <p>
-                Licenciada en<span class="purpleText"> Psicología</span>
+                Licenciada en<span class="greenText"> Psicología</span>
                 <!-- <span class="purpleText">Humanista</span> -->
               </p>
+              FVP: 13.903
             </div>
             <div class="text">
               <p>
-                Enfoque en terapia cognitivo conductual, apasionada y plenamente comprometida con el bienestar humano.
+                Te ofrezco un espacio seguro, en donde puedas desarrollar herramientas que te ayuden a gestionar emociones y afrontar los retos de la vida cotidiana.
               </p>
             </div>
             <div class="button">
