@@ -498,6 +498,9 @@ h6 {
 .yellowText {
   color: #f0c45c !important;
 }
+.blackText {
+  color: #000000 !important;
+}
 
 .orangeBackground {
   background-color: #fedfd7 !important;

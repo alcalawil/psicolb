@@ -20,7 +20,7 @@
                     <i class="icon-phone purpleText"></i>
                   </div>
                   <div class="short">
-                    <a href="https://wa.me/584145014087" target="_blank"
+                    <a href="https://wa.me/584121341631" target="_blank"
                       ><span><h3>Whatsapp</h3></span></a>
                   </div>
                 </div>

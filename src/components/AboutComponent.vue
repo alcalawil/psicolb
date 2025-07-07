@@ -1,4 +1,5 @@
 <template>
+  
   <div class="dizme_tm_section" id="about">
     <div class="dizme_tm_about">
       <div class="container">
@@ -6,6 +7,7 @@
           <div class="left">
             <div class="image">
               <img src="/public/img/about/1.jpg" alt="" />
+
               <!-- <div class="numbers year">
                 <div class="wrapper">
                   <h3>
@@ -26,15 +28,20 @@
           </div>
           <div class="right">
             <div class="title wow fadeInUp" data-wow-duration="1s">
-              <span>Mi frase favorita</span>
-              <h3>"No se cura lo que no se enfrenta"</h3>
+              <span>Sobre Mi</span>
+              <!-- <h3>"No se cura lo que no se enfrenta"</h3> -->
             </div>
             <div class="text wow fadeInUp" data-wow-duration="1s">
               <p>
+                Más  allá de lo profesional, soy alguien que ama amar, que encuentra en la música y el baile una forma de expresarse y conectarse con la vida, creo profundamente en el poder del autoconocimiento como motor de cambio.
+Amo mi profesión porque me permite estar presente en momentos significativos de la vida de las personas, ser testigo de sus luchas, sus logros y en la magia que ocurre cuando alguien se anima a mirar hacia adentro. Si estás en ese camino, acá estoy.
+
+              </p>
+              <!-- <p>
                 Te ofrezco un espacio seguro y de confianza, 
                 en donde puedas desarrollar herramientas que te ayuden a gestionar emociones  
                 y afrontar los retos de la vida cotidiana.
-              </p>
+              </p> -->
             </div>
             <div class="dizme_tm_button wow fadeInUp" data-wow-duration="1s">
               <a class="anchor" href="#contact"><span>¿Cómo puedo ayudarte?</span></a>

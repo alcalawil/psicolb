@@ -5,6 +5,10 @@
     <HomeComponent />
     <!-- HERO -->
 
+    <!-- QUOTE -->
+    <QuoteComponent />
+    <!-- /QUOTE -->
+
     <!-- ABOUT -->
     <AboutComponent />
     <!-- /ABOUT -->
@@ -60,6 +64,7 @@ import ScrollTopVue from "@/components/layout/ScrollTop.vue";
 import { activeSkillProgress } from "@/utilits";
 import AboutComponent from "../components/AboutComponent.vue";
 import ContactComponent from "../components/ContactComponent.vue";
+import QuoteComponent from "../components/QuoteComponent.vue";
 import CopyrightComponent from "../components/CopyrightComponent.vue";
 import HomeComponent from "../components/HomeComponent.vue";
 import NewsComponent from "../components/NewsComponent.vue";
@@ -75,7 +80,8 @@ export default {
   name: "IndexView",
   components: {
     HomeComponent,
-    ProcessComponent,
+    QuoteComponent,
+    // ProcessComponent,
     AboutComponent,
     PortfolioComponent,
     SkillComponent,

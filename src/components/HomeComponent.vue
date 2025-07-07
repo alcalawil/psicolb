@@ -20,11 +20,17 @@
                 <!-- <span class="purpleText">Humanista</span> -->
               </p>
               FVP: 13.903
+              <div class="text">
+                Maestría en Psicología Clínica y de la Salud (en curso)
+              </div>
+              
             </div>
+             
             <div class="text">
               <p>
-                Te ofrezco un espacio seguro, en donde puedas desarrollar herramientas que te ayuden a gestionar emociones y afrontar los retos de la vida cotidiana.
+                Enfoque en terapia cognitivo conductual, apasionada y plenamente comprometida con el bienestar humano.
               </p>
+
             </div>
             <div class="button">
               <div class="dizme_tm_button">
@@ -59,10 +65,10 @@
           </div>
         </div>
       </div>
-      <div class="dizme_tm_down">
+      <!-- <div class="dizme_tm_down">
         <a class="anchor" href="#process" v-html="dark ? mouseDark : mouse">
         </a>
-      </div>
+      </div> -->
     </div>
   </div>
 </template>
